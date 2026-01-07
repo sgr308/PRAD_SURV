@@ -74,4 +74,6 @@ install.packages(c(
 ```bash
 shinyApp(ui = ui, server = server)
 ```
+## Workflow:
 
+<img src="https://github.com/sgr308/PRAD_SURV/blob/main/www/wrk2.jpg?raw=true"/>
